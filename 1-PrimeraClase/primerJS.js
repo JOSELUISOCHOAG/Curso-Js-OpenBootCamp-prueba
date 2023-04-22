@@ -12,3 +12,5 @@ function recorrer() {
     console.log("element is:>> ", element);
   }
 }
+
+recorrer();
